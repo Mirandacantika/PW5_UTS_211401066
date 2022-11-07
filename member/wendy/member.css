@@ -1,0 +1,33 @@
+.left-column{
+    padding: 10px;
+    float: left;
+    width: 75%;
+    background-color: #ef7b57 ;
+    margin-bottom: 20px;
+}
+
+.right-column{
+    padding: 10px;
+    float: right;
+    width: 25%;
+    background-color: #ef7b57;
+    margin-bottom: 20px;
+}
+
+.rowcontent{
+    text-align: justify;
+}
+
+.image{
+    margin: 5px;
+}
+
+.card-footer{
+    text-align: center;
+    background-color: #FFB69F;
+}
+
+.card{
+    padding: 10px;
+}
+
